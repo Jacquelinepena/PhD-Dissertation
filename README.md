@@ -1,3 +1,3 @@
 # PhD Dissertation 2025
-## Chapter 2 FOOTPRINTS OF HUMAN MIGRATION IN THE POPULATION STRUCTURE OF WILD BAKER’S YEAST
+## Chapter 2 Footprints of Human Migration in the Population Structure of Wild Baker's Yeast
 Supplemental tables 1-8: PenaCh2_SupplementalTables.xlsx
